@@ -6,7 +6,7 @@ If you have ideas on how to improve or find errors as well as when you are missi
 ## Installation
 To run the python notebook you need a python installation with jupyterlab. To install the environment, using anaconda, you can use the environment.yml file provided here. This was created under Windows 10. You can create environment on your machin by following the instructions provided in the <a target="_blank" rel="noopener" href="https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file">Anconda docs</a>.  
 If this fails under Linux, you might have to remove some version numbers in the yml file. You can also create a new environment with numpy, matplotlib and jupyterlab.  
-When you have installed your environment, activate it and switch to the folder where the downloadd notebooks are located with ´´´cd´´´. Start jupyterlab by running ```jupyter-lab``` and open the corresponding notebook.  
+When you have installed your environment, activate it and switch to the folder where the downloadd notebooks are located with ```cd```. Start jupyterlab by running ```jupyter-lab``` and open the corresponding notebook.  
 To provide an easy start for beginners, you can also <a target="_blank" rel="noopener" href="https://recurrence-reviewed.de/contact/">request an account</a> for my jupyter-lab server to try out the notebooks.
 
 ## 01 Inroduction to Neuron Models
