@@ -1,5 +1,5 @@
 # Recurrence
-This repository contains the corresponding python notebooks for my Blog recurrence-reviewed.de.  
+This repository contains the corresponding python notebooks for my Blog <a target="_blank" rel="noopener" href="https://recurrence-reviewed.de/">recurrence-reviewed.de</a>.  
 I am trying to address both people with a strong mathematical background but without prior experience in neural networks, as well as people with less experience in mathematics but already basic knowledge of neural networks.  
 If you have ideas on how to improve or find errors as well as when you are missing out something please feel free to contact me.
 
